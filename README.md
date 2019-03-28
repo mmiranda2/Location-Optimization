@@ -1,6 +1,6 @@
 # Wireless-Router-Placement
 
-Included in this repository is a project in the form of an IPython notebook (.ipynb) and a pdf of the notebook. The code uses the Julia language and requires installation of JuMP (Julia Mathematical Programming) and Gurobi packages.
+Included in this repository is a project in the form of an IPython notebook (.ipynb) and a .PDF of the notebook. The code uses the Julia language and requires installation of JuMP (Julia Mathematical Programming) and Gurobi packages.
 
 The basic idea of this project is to find an optimal configuration of a network of routers with varying ranges and costs. The network of routers are all based around a central backbone source chosen by the user. The algorithm is a binary integer linear program (ILP).
 
